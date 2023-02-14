@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DirtyRonin/frontend-mentor_article-preview-component/static/css/main.0e5790fd.css",
-    "main.js": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/main.774b14b5.js",
+    "main.js": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/main.33c5898c.js",
     "static/js/787.d1836485.chunk.js": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/787.d1836485.chunk.js",
     "static/media/drawers.jpg": "/DirtyRonin/frontend-mentor_article-preview-component/static/media/drawers.631135b079e9f19bada8.jpg",
     "index.html": "/DirtyRonin/frontend-mentor_article-preview-component/index.html",
@@ -11,11 +11,11 @@
     "static/media/icon-share-gray.svg": "/DirtyRonin/frontend-mentor_article-preview-component/static/media/icon-share-gray.890102fe1500a6fba9a76d1b384684d2.svg",
     "static/media/icon-share-white.svg": "/DirtyRonin/frontend-mentor_article-preview-component/static/media/icon-share-white.cbfbe5f0dcaddd613b13ae663f8251d3.svg",
     "main.0e5790fd.css.map": "/DirtyRonin/frontend-mentor_article-preview-component/static/css/main.0e5790fd.css.map",
-    "main.774b14b5.js.map": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/main.774b14b5.js.map",
+    "main.33c5898c.js.map": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/main.33c5898c.js.map",
     "787.d1836485.chunk.js.map": "/DirtyRonin/frontend-mentor_article-preview-component/static/js/787.d1836485.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5790fd.css",
-    "static/js/main.774b14b5.js"
+    "static/js/main.33c5898c.js"
   ]
 }
